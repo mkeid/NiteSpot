@@ -1,0 +1,115 @@
+.body_shout
+{
+  margin:auto;
+  position: absolute;
+    right: 60px;
+    top: 120px;
+  overflow: scroll;
+  width: 100%;
+  }
+  .body_shout > div
+  {
+    position: relative;;
+    margin: auto;
+    width: 452px;
+  }
+
+.feed
+{
+  height:100%;
+  padding-top: 0px;
+  overflow:scroll;
+}
+.feed img
+{
+  border-radius: 2px;
+  -webkit-border-radius:2px;
+  cursor:pointer;
+  height:40px;
+  width:40px;
+}
+.feed ul
+{
+  padding-bottom:210px;
+  padding-bottom:60px;
+}
+.feed .shout
+{
+  border-bottom:1px solid #E7E7E7;
+  display:inline-block;
+  font-size:12px;
+  line-height:16px;
+  margin-bottom:-3px;
+  padding:14px 3px 5px 10px;
+  position:relative;
+  width: 93%;
+}
+.feed .shout:nth-child(2n)
+{
+  background: rgb(230,230,230);
+}
+.feed .shout:hover
+{
+  background: #f2f7ff;
+}
+.feed .shout_left
+{
+  display:inline-block;
+  float:left;
+  margin-right:10px;
+  width:40px;
+}
+.feed .shout_right
+{
+  display:inline-block;
+  float:left;
+  clear:right;
+  margin-bottom:4px;
+  width: 120px;
+}
+.feed .shout_name
+{
+  float:left;
+  font-weight:600;
+}
+.feed .shout_message
+{
+  float:left;
+  font-weight:100;
+}
+
+ .liked_users_list
+ {
+  width: 450px;
+  }
+  .liked_users_list img
+  {
+    border-radius: 2px;
+      -webkit-border-radius:2px;
+    cursor:pointer;
+    height: 40px;
+    width: 40px;
+  }
+  .liked_users_list li
+  {
+    border-top: 1px solid rgb(180,180,180);
+    width: 100%;
+  }
+  .liked_users_list div
+  {
+    float:left;
+  }
+  .liked_users_list li .right
+  {
+    margin:14px 0 0 10px;
+  }
+  .liked_users_list .shout_time
+  {
+    padding-top:2px;
+    position: absolute;
+    right: 0;;
+  }
+
+.shout_message a {
+  color:rgba(0,153,255,1);
+}

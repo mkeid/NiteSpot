@@ -1,0 +1,36 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:26aa38fd99f1e704be10ad26c5f7ff30$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(sprite.png);}
+
+.admin {width:20px; height:20px; background-position: -218px -99px}
+.follow_small {width:29px; height:29px; background-position: -208px -46px}
+.food {width:20px; height:20px; background-position: -218px -77px}
+.group_invite_small {width:20px; height:20px; background-position: -196px -99px}
+.groups {width:20px; height:20px; background-position: -196px -77px}
+.groups_small {width:29px; height:29px; background-position: -195px -2px}
+.me {width:20px; height:20px; background-position: -226px -24px}
+.not_admin {width:20px; height:20px; background-position: -226px -2px}
+.notifications_small {width:29px; height:29px; background-position: -177px -33px}
+.ns {width:110px; height:48px; background-position: -2px -52px}
+.ns_full {width:160px; height:48px; background-position: -2px -2px}
+.parties {width:20px; height:20px; background-position: -112px -102px}
+.parties_small {width:20px; height:20px; background-position: -90px -102px}
+.parties_small2 {width:29px; height:29px; background-position: -164px -2px}
+.places {width:20px; height:20px; background-position: -68px -102px}
+.requests_small {width:29px; height:29px; background-position: -165px -83px}
+.settings {width:20px; height:20px; background-position: -46px -102px}
+.settings_small {width:20px; height:20px; background-position: -24px -102px}
+.settings_small_dark {width:30px; height:30px; background-position: -114px -52px}
+.shouts_small {width:29px; height:29px; background-position: -146px -52px}
+.signout {width:20px; height:20px; background-position: -2px -102px}
+.stats_small {width:29px; height:29px; background-position: -134px -84px}

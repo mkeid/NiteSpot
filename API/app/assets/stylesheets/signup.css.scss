@@ -1,0 +1,52 @@
+// Place all the styles related to the signup controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.signup
+{
+	border:1px solid rgba(187,87,0,1);
+	color:rgba(255,255,255,1);
+	cursor:pointer;
+	font-size:24px;
+	margin:auto;
+	margin-top:10px;
+	padding:5px;
+	
+	background: rgb(255,159,81);
+	
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmOWY1MSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZjc0MDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	
+	background: -moz-linear-gradient(top,  rgba(255,159,81,1) 0%, rgba(255,116,0,1) 100%);
+	
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,159,81,1)), color-stop(100%,rgba(255,116,0,1)));
+	
+	background: -webkit-linear-gradient(top,  rgba(255,159,81,1) 0%,rgba(255,116,0,1) 100%);
+	
+	background: -o-linear-gradient(top,  rgba(255,159,81,1) 0%,rgba(255,116,0,1) 100%);
+	
+	background: -ms-linear-gradient(top,  rgba(255,159,81,1) 0%,rgba(255,116,0,1) 100%);
+	
+	background: linear-gradient(to bottom,  rgba(255,159,81,1) 0%,rgba(255,116,0,1) 100%);
+	
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff9f51', endColorstr='#ff7400',GradientType=0 );
+	}
+	.signup:hover
+	{
+		background: rgb(255,153,76);
+		
+		background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmOTk0YyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZjYxMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+		
+		background: -moz-linear-gradient(top,  rgba(255,153,76,1) 0%, rgba(255,97,0,1) 100%);
+		
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,153,76,1)), color-stop(100%,rgba(255,97,0,1)));
+		
+		background: -webkit-linear-gradient(top,  rgba(255,153,76,1) 0%,rgba(255,97,0,1) 100%);
+		
+		background: -o-linear-gradient(top,  rgba(255,153,76,1) 0%,rgba(255,97,0,1) 100%);
+		
+		background: -ms-linear-gradient(top,  rgba(255,153,76,1) 0%,rgba(255,97,0,1) 100%);
+		
+		background: linear-gradient(to bottom,  rgba(255,153,76,1) 0%,rgba(255,97,0,1) 100%);
+		
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff994c', endColorstr='#ff6100',GradientType=0 );
+	}
